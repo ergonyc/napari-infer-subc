@@ -1,5 +1,5 @@
 name: napari-infer-subc
-display_name: napari InferSubC
+display_name: Infer Subcellular Components
 contributions:
   commands:
     - id: napari-infer-subc.get_reader

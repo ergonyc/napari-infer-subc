@@ -1,4 +1,4 @@
-# napari-infer-subc
+# napari-infer-subc  🚧 WIP 🚧
 
 [![License BSD-3](https://img.shields.io/pypi/l/napari-infer-subc.svg?color=green)](https://github.com/ergonyc/napari-infer-subc/raw/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/napari-infer-subc.svg?color=green)](https://pypi.org/project/napari-infer-subc)
@@ -7,7 +7,10 @@
 [![codecov](https://codecov.io/gh/ergonyc/napari-infer-subc/branch/main/graph/badge.svg)](https://codecov.io/gh/ergonyc/napari-infer-subc)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-infer-subc)](https://napari-hub.org/plugins/napari-infer-subc)
 
-A plugin to infer subcellular components
+A [napari](https://napari.org/stable/) plugin to infer subcellular components leveraging [infer-subc](https://github.com/ergonyc/infer-subc) and [aics-segmenter]( https://allencell.org/segmenter )
+
+## GOAL
+To measure shape, position, size, and interaction of eight organelles/cellular components (Nuclei (NU), Lysosomes (LS),Mitochondria (MT), Golgi (GL), Peroxisomes (PO), Endoplasmic Reticulum (ER), Lipid Droplet (LD), and SOMA) during differentiation of iPSCs, in order to understand the Interactome / Spatiotemporal coordination.
 
 ----------------------------------
 
